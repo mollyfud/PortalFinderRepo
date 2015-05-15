@@ -10,6 +10,14 @@
       "addToNavigation": true,
       "components": [],
       "icon": "home"
+    },
+    {
+      "type": "view",
+      "name": "displayPortal",
+      "title": "Display Portal",
+      "addToNavigation": true,
+      "components": [],
+      "icon": "globe"
     }
   ],
   "view": "home",

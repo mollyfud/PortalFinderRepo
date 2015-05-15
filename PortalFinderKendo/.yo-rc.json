@@ -4,7 +4,8 @@
   ],
   "generator-kendo-ui-mobile": {
     "cleanup": [
-      "./home"
+      "./home",
+      "./displayPortal"
     ]
   }
 }
