@@ -36,7 +36,6 @@
     "commit": "4c682c1028fc8e802cb6d4be5870579f5218f8b9"
   },
   "_source": "git://github.com/kendo-labs/bower-kendo-ui-appbuilder.git",
-  "_target": "~2015.1.511",
-  "_originalSource": "kendo-ui-appbuilder-core",
-  "_direct": true
+  "_target": "*",
+  "_originalSource": "kendo-ui-appbuilder-core"
 }

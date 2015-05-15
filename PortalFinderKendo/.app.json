@@ -1,4 +1,18 @@
 {
   "type": "kendo-ui-mobile",
-  "isNew": true
+  "name": "kendoUiMobileApp",
+  "navigation": "drawer",
+  "views": [
+    {
+      "type": "view",
+      "name": "home",
+      "title": "Home",
+      "addToNavigation": true,
+      "components": [],
+      "icon": "globe"
+    }
+  ],
+  "view": "home",
+  "skin": "native",
+  "dataProviders": []
 }
