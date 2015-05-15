@@ -9,7 +9,7 @@
       "title": "Home",
       "addToNavigation": true,
       "components": [],
-      "icon": "globe"
+      "icon": "home"
     }
   ],
   "view": "home",
